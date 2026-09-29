@@ -4,3 +4,4 @@ function calc(a,b){
   return a+b;
 }
 console.log("Vibe Coding 测试代码");
+console.log("test commit");
